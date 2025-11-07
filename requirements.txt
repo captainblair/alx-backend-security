@@ -3,3 +3,8 @@ requests
 django-ratelimit
 celery
 redis
+drf-yasg
+djangorestframework
+gunicorn
+whitenoise
+python-decouple
